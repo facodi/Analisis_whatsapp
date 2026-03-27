@@ -15,6 +15,13 @@ venv/
 .venv/
 env/
 .env
+Lib/
+Scripts/
+etc/
+share/
+pyvenv.cfg
+Include/
+__pycache__/
 
 ### JUPYTER NOTEBOOKS ###
 .ipynb_checkpoints/
