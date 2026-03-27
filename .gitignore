@@ -1,0 +1,24 @@
+### ARCHIVOS PRIVADOS (Lo más importante) ###
+# Aquí pones el nombre exacto del chat que quieres ocultar
+*.txt
+*.csv
+*.log
+# Si tienes una carpeta específica para los datos:
+Data/
+bk/
+
+### PYTHON ###
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env
+
+### JUPYTER NOTEBOOKS ###
+.ipynb_checkpoints/
+
+### SISTEMA OPERATIVO ###
+.DS_Store
+Thumbs.db
